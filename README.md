@@ -10,6 +10,9 @@
 const access_key = 'YOUR ACCESS KEY';
 const secret_key = 'YOUR SECRET KEY';
 ```
+### multi-market case
+just run.
+### singloe-market case
 - input your initial capital
 ```javascript
 let Initial_KRW_remain = 420000; // YOUR INITIAL CAPITAL : direct recog.
